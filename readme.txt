@@ -6,7 +6,7 @@ plugin by BeingMaverick
 
 http://wordpress.org/extend/plugins/twitter-facebook-google-plusone-share/
 
-https://github.com/kevanstuart/twitter-linkedin-kindle-kevanstuart
+https://github.com/kevanstuart/smc-tlkshare
 
 ====== Description ======
 
